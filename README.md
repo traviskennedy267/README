@@ -1,4 +1,4 @@
-# 👨‍💻 [Your Name] - Offensive Security Professional
+# Travis - Offensive Security Professional
 
 Welcome to my GitHub!
 
@@ -24,26 +24,8 @@ Welcome to my GitHub!
 
 📚 **Learning & Growth**:
 - I am always looking to deepen my knowledge of **exploit development**, **red teaming**, and **advanced offensive security tactics**.
-- Actively engaging in Capture The Flag (CTF) challenges and contributing to open-source security tools.
-
-🔗 **Connect with me**:
-- [LinkedIn](https://www.linkedin.com/in/yourname)  
-- [Twitter](https://twitter.com/yourhandle)
-- [Blog/Portfolio](https://yourportfolio.com)
+- Actively engaging in Capture The Flag (CTF) challenges working towards obtaining the CPTS and OSCP.
 
 
-<!-- Security+ -->
-![Security+](https://img.shields.io/badge/Cert-Security%2B%20(SY0--601)-blue?logo=compTIA&logoColor=white)
 
-<!-- PenTest+ -->
-![PenTest+](https://img.shields.io/badge/Cert-PenTest%2B%20(PT0--002)-blue?logo=compTIA&logoColor=white)
-
-<!-- eJPT -->
-![eJPT](https://img.shields.io/badge/Cert-eJPT%20-%23f08d42?logo=eLearnSecurity&logoColor=white)
-
-<!-- Linux+ -->
-![Linux+](https://img.shields.io/badge/Cert-Linux%2B%20-%23f08d42?logo=compTIA&logoColor=white)
-
-<!-- C Programming -->
-![C Programming](https://img.shields.io/badge/Language-C%20Programming-%23f34b7d?logo=c&logoColor=white)
 
