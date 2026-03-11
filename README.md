@@ -1,4 +1,4 @@
-# Travis - Offensive Security Professional
+# Travis - Security Professional
 
 Welcome to my GitHub!
 
