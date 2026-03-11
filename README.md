@@ -26,6 +26,10 @@ Welcome to my GitHub!
 - I am always looking to deepen my knowledge of **exploit development**, **red teaming**, and **advanced offensive security tactics**.
 - Actively engaging in Capture The Flag (CTF) challenges working towards obtaining the CPTS and OSCP.
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-Offensive_Security-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-System_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C Programming](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 
 
 
